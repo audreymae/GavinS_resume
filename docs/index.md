@@ -24,7 +24,7 @@ __Brigham Young University Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
+### School Experience
 
 `January 2028 - June 2028`
 __Pacific Northwest National Lab__, Richland, WA
@@ -33,23 +33,7 @@ __Pacific Northwest National Lab__, Richland, WA
 - Used R and Visual Sample Plan to establish new sampling algorithms
 - Published a journal article in Environmental Quality.
 
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
+### Data Science Projects
 
 `January 2027 - April 2027`
 __Imagine Learning__
@@ -68,12 +52,14 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`September 2020 - December 2020`
+__Statistics Tutor & TA__, BYU-I
 
+`January 2021 - Present`
+__Data Science Programming Tutor & TA__, BYU-I
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2017-2019`
+__Service Missionary__, Charlotte, North Carolina
 
 
 
